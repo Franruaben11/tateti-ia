@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1731376451 source:c:\users\usuario\desktop\ayda2\tateti_minimax\tateti\main.cpp
+	<iostream>
+	"tateti.h"
+
+1731436861 c:\users\usuario\desktop\ayda2\tateti_minimax\tateti\tateti.h
+	"iostream"
+	<string>
+	<vector>
+
+1731452380 source:c:\users\usuario\desktop\ayda2\tateti_minimax\tateti\tateti.cpp
+	"tateti.h"
+	"persona.h"
+	"computadora.h"
+	"iostream"
+	<vector>
+
+1731377313 source:c:\users\usuario\desktop\ayda2\tateti_minimax\tateti\persona.cpp
+	"persona.h"
+	"iostream"
+	<vector>
+	<string>
+
+1731375788 c:\users\usuario\desktop\ayda2\tateti_minimax\tateti\persona.h
+	"tateti.h"
+	"iostream"
+	<vector>
+
+1731450693 source:c:\users\usuario\desktop\ayda2\tateti_minimax\tateti\computadora.cpp
+	"computadora.h"
+	"iostream"
+	<vector>
+	<string>
+
+1731452290 c:\users\usuario\desktop\ayda2\tateti_minimax\tateti\computadora.h
+	"tateti.h"
+	"iostream"
+	<vector>
+
